@@ -1,0 +1,19 @@
+{
+    "manifest_version": 3,
+    "name": "Coupon Code Generator",
+    "version": "1.0",
+    "description": "Generates coupon codes for online stores"
+    ,
+    "icons": {
+      "16": "/icons/icon16.png",
+      "48":  "/icons/icon48.png"
+    },
+    "action": {
+      "default_title": "Generate Coupon Code",
+      "default_popup": "popup.html"
+    },
+    "permissions": [
+      "activeTab"
+    ]
+  }
+  
